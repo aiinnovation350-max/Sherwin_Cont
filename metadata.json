@@ -1,0 +1,6 @@
+{
+  "name": "Sharwin Contracting and Cleaning",
+  "description": "Professional commercial cleaning, specialist cleaning, and facility support services in Doha, Qatar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
